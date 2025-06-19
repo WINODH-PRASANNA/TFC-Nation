@@ -1,58 +1,107 @@
-# TFC Nation - Restaurant Website
+# 🍗 Tender Fried Chicken (TFC) Nation Website
 
-![TFC Nation Banner](img/vegetable_and_chicken_stir_fry2000x1125.jpg)
+![TFC Nation Home Page](https://i.imgur.com/AOI7XRF.png)
 
-Welcome to the official website of **Tender Fried Chicken (TFC) Nation** – a modern, visually captivating static website built with HTML and CSS to showcase the TFC brand, its signature dishes, and services.
+Welcome to the official website of *Tender Fried Chicken (TFC) Nation* – a stylish, fully responsive restaurant landing page built using HTML and CSS. It showcases the brand’s delicious offerings, vibrant design, and essential features for a modern food website.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
+🌐 *Live Website:* [https://tfchicken.netlify.app](https://tfchicken.netlify.app)
 
-## Structure
+---
 
-project/
-│
-├── index.html # Main HTML file
-├── style.css # Main stylesheet
-├── img/ # Folder containing all images used
+## 📁 Project Structure
 
-### Interactive UI Elements
-- ☑️ Mobile-friendly navigation drawer
-- ☑️ Animated buttons with hover effects
-- ☑️ Floating label contact form
-- ☑️ Product cards with price display
-- ☑️ Social media integration
+TFC-Website/ ├── index.html             # Main HTML page with all sections (nav, hero, about, products, services, contact) ├── style.css              # Styling for layout, animations, and responsiveness ├── img/                   # Folder containing all images │   ├── I-Logo.png │   ├── depositphotos_35261145-.jpg │   ├── 1200-by-1200-images-2.jpg │   ├── Chicken-65-11.jpg │   ├── Chicken-Dum-Biryani-Hyderabadi-Style-V2.jpg │   ├── ChickTikkaKebabs_024_.jpg │   ├── chicken-wings-platter-lectin-free-4-*.jpg │   ├── chicken-hyderabadi-biryani-01-750x750.jpg │   ├── chicken.jpg │   └── vegetable_and_chicken_stir_fry2000x1125.jpg
 
-### Content Sections
-- 🍗 Hero banner with animated text
-- ❤️ "Made with Love" feature highlights
-- 📖 About Us with image hover effect
-- 🍽️ Product showcase gallery
-- 🚚 Services section (Delivery, Recipes)
-- 📞 Contact information with form
+---
 
-## Technologies Used
+## ✨ Key Features
 
-| Technology | Usage |
-|------------|-------|
-| HTML5 | Semantic structure |
-| CSS3 | Styling and animations |
-| Google Fonts | Typography |
-| SVG | Icons and graphics |
+### 🔸 Navigation Bar
+- Responsive mobile menu with hamburger icon
+- Brand logo and gradient title
 
-**Key CSS Features:**
-- CSS Variables for theming
-- Flexbox/Grid layouts
-- Responsive media queries
-- Custom scrollbar styling
-- Text gradient effects
+### 🔸 Hero Section
+- Full-screen banner with a flame-animated headline
+- "View More" call-to-action button
 
-## Installation
+### 🔸 Features
+- 4 highlighted qualities: Made with Love, Taste, Energy, Family Recipe
+- Interactive hover effects using icons and transitions
 
-1. Clone repository:
+### 🔸 About Section
+- Company description with image
+- Button for extended details
+
+### 🔸 Products Section
+- Featured items (e.g., Chicken Tikka, Chicken 65, Biryani, Kebabs)
+- Prices included with styled image cards
+
+### 🔸 Services
+- Cards for custom recipes, home delivery, and more
+- Icons, images, and interactive hover styling
+
+### 🔸 Contact Section
+- Address, email, phone number
+- Working contact form via [FormSubmit](https://formsubmit.co/)
+
+### 🔸 Footer
+- Social media icons (hover animations)
+- Copyright
+
+---
+
+## 🎨 Styling & Fonts
+
+- *CSS Variables* for color and font consistency
+- Google Fonts used:
+- Roboto
+- Inter
+- Satisfy
+- Margarine
+- Modern layout using Flexbox and Media Queries
+- Scrollbar and button animations included
+
+---
+
+## 📬 Contact Form
+
+Form submits to:
+
+https://formsubmit.co/prasannawinodh@email.com
+
+You can change the email by editing the form action in index.html.
+
+---
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
+- Google Fonts
+- SVG Icons
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository.
+**Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/tfc-nation.git
+   git clone https://github.com/WINODH-PRSANNA/TFC-Nation.git
+   cd tastee.lk
+   ```
+2. Open index.html in a browser.
+3. Ensure an internet connection for fonts and form handling.
+
+---
+
+## ⚠ License
+
+This project is intended for *educational and portfolio use only*. Commercial use of TFC branding or assets is not permitted.
+
+---
+
+### 👨‍💻 Created by Winodh Prasanna
+
+
+---
