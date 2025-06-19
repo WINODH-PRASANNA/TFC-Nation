@@ -12,7 +12,13 @@ Welcome to the official website of **Tender Fried Chicken (TFC) Nation** – a m
 - [Customization](#customization)
 - [License](#license)
 
-## Features
+## Structure
+
+project/
+│
+├── index.html # Main HTML file
+├── style.css # Main stylesheet
+├── img/ # Folder containing all images used
 
 ### Interactive UI Elements
 - ☑️ Mobile-friendly navigation drawer
