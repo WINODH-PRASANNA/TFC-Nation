@@ -1,6 +1,6 @@
 # 🍗 Tender Fried Chicken (TFC) Nation Website
 
-![TFC Nation Home Page](https://i.imgur.com/AOI7XRF.png)
+<img src="IMG-20250824-WA0000.jpg">
 
 Welcome to the official website of *Tender Fried Chicken (TFC) Nation* – a stylish, fully responsive restaurant landing page built using HTML and CSS. It showcases the brand’s delicious offerings, vibrant design, and essential features for a modern food website.
 
