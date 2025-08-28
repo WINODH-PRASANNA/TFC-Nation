@@ -10,7 +10,7 @@ Welcome to the official website of *Tender Fried Chicken (TFC) Nation* – a sty
 
 ## 📁 Project Structure
 
-```
+```bash
 tfc/
 │-- index.html            # Main landing page
 │-- style.css             # Stylesheet
@@ -58,7 +58,6 @@ You can change the email by editing the form action in index.html.
 **Clone the repository**
    ```bash
    git clone https://github.com/WINODH-PRSANNA/TFC-Nation.git
-   cd tastee.lk
    ```
 2. Open index.html in a browser.
 3. Ensure an internet connection for fonts and form handling.
