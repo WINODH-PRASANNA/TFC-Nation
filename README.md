@@ -14,39 +14,18 @@ TFC-Website/ ├── index.html             # Main HTML page with all sections
 
 ---
 
-## ✨ Key Features
+## 🚀 Features  
 
-### 🔸 Navigation Bar
-- Responsive mobile menu with hamburger icon
-- Brand logo and gradient title
-
-### 🔸 Hero Section
-- Full-screen banner with a flame-animated headline
-- "View More" call-to-action button
-
-### 🔸 Features
-- 4 highlighted qualities: Made with Love, Taste, Energy, Family Recipe
-- Interactive hover effects using icons and transitions
-
-### 🔸 About Section
-- Company description with image
-- Button for extended details
-
-### 🔸 Products Section
-- Featured items (e.g., Chicken Tikka, Chicken 65, Biryani, Kebabs)
-- Prices included with styled image cards
-
-### 🔸 Services
-- Cards for custom recipes, home delivery, and more
-- Icons, images, and interactive hover styling
-
-### 🔸 Contact Section
-- Address, email, phone number
-- Working contact form via [FormSubmit](https://formsubmit.co/)
-
-### 🔸 Footer
-- Social media icons (hover animations)
-- Copyright
+- 📱 **Responsive Design** – Works seamlessly across desktops, tablets, and mobile devices.  
+- 🧭 **Navigation Menu** – Smooth slide-in mobile-friendly navigation.  
+- 🎬 **Hero Section** – Eye-catching banner with animated text and CTA button.  
+- ⭐ **Features Section** – Highlights brand values (❤️ Love, 🍴 Taste, ⚡ Energy, 👨‍👩‍👧‍👦 Family Recipe).  
+- ℹ️ **About Section** – Company story with image hover effects.  
+- 🍲 **Products Section** – Interactive product cards with pricing.  
+- 🛎️ **Services Section** – Cards with icons, hover animations, and descriptions.  
+- 📬 **Contact Section** – Contact form with [FormSubmit](https://formsubmit.co/) integration.  
+- ⚡ **Custom Scrollbar** – Styled for modern browsers.  
+- 🔗 **Footer** – Social media icons and copyright.  
 
 ---
 
