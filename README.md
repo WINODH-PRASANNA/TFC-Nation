@@ -1,4 +1,4 @@
-# 🍗 Tender Fried Chicken (TFC) Nation Website
+# 🍗 TFC | Tender Fried Chicken 
 
 <img src="IMG-20250824-WA0000.jpg">
 
