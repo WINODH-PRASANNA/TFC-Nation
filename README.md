@@ -11,10 +11,10 @@ Welcome to the official website of *Tender Fried Chicken (TFC) Nation* – a sty
 ## 📁 Project Structure
 
 ```
-project/
-│-- index.html # Main landing page
-│-- style.css # Stylesheet
-│-- img/ # Images and logo
+tfc/
+│-- index.html            # Main landing page
+│-- style.css             # Stylesheet
+│-- img/                  # Images and logo
 ```
 
 ---
@@ -34,16 +34,12 @@ project/
 
 ---
 
-## 🎨 Styling & Fonts
+## 🛠️ Tech Stack  
 
-- *CSS Variables* for color and font consistency
-- Google Fonts used:
-- Roboto
-- Inter
-- Satisfy
-- Margarine
-- Modern layout using Flexbox and Media Queries
-- Scrollbar and button animations included
+- 🏗️ **HTML5** – Page structure  
+- 🎨 **CSS3** – Styling, animations, and layout  
+- 🔤 **Google Fonts** – `Roboto`, `Inter`, `Satisfy`, `Margarine`  
+- 🖼️ **SVG Icons** – Lightweight vector graphics  
 
 ---
 
@@ -55,16 +51,7 @@ https://formsubmit.co/prasannawinodh@email.com
 
 You can change the email by editing the form action in index.html.
 
----
 
-## 🛠️ Tech Stack  
-
-- 🏗️ **HTML5** – Page structure  
-- 🎨 **CSS3** – Styling, animations, and layout  
-- 🔤 **Google Fonts** – `Roboto`, `Inter`, `Satisfy`, `Margarine`  
-- 🖼️ **SVG Icons** – Lightweight vector graphics  
-
----
 ## 🚀 How to Use
 
 1. Clone or download the repository.
