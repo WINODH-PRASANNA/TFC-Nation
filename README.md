@@ -10,7 +10,12 @@ Welcome to the official website of *Tender Fried Chicken (TFC) Nation* – a sty
 
 ## 📁 Project Structure
 
-TFC-Website/ ├── index.html             # Main HTML page with all sections (nav, hero, about, products, services, contact) ├── style.css              # Styling for layout, animations, and responsiveness ├── img/                   # Folder containing all images │   ├── I-Logo.png │   ├── depositphotos_35261145-.jpg │   ├── 1200-by-1200-images-2.jpg │   ├── Chicken-65-11.jpg │   ├── Chicken-Dum-Biryani-Hyderabadi-Style-V2.jpg │   ├── ChickTikkaKebabs_024_.jpg │   ├── chicken-wings-platter-lectin-free-4-*.jpg │   ├── chicken-hyderabadi-biryani-01-750x750.jpg │   ├── chicken.jpg │   └── vegetable_and_chicken_stir_fry2000x1125.jpg
+```
+project/
+│-- index.html # Main landing page
+│-- style.css # Stylesheet
+│-- img/ # Images and logo
+```
 
 ---
 
