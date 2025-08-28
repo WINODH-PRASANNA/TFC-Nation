@@ -52,15 +52,14 @@ You can change the email by editing the form action in index.html.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack  
 
-- HTML5
-- CSS3
-- Google Fonts
-- SVG Icons
+- 🏗️ **HTML5** – Page structure  
+- 🎨 **CSS3** – Styling, animations, and layout  
+- 🔤 **Google Fonts** – `Roboto`, `Inter`, `Satisfy`, `Margarine`  
+- 🖼️ **SVG Icons** – Lightweight vector graphics  
 
 ---
-
 ## 🚀 How to Use
 
 1. Clone or download the repository.
